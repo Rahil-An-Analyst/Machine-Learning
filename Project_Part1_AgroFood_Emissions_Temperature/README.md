@@ -43,8 +43,8 @@ Key insights from the exploratory analysis include:
 
 ## Files
 - `README.md`: This file.
-- `DataPrep_Exploration.ipynb`: Jupyter Notebook containing code for data preparation and EDA.
-- `agrofood_emissions.csv`: The dataset used for analysis.
+- `MLProject_part1.ipynb`: Jupyter Notebook containing code for data preparation and EDA.
+- `MLProject_part1.csv`: The dataset used for analysis.
 
 ## License
 This project is licensed under the MIT License.
