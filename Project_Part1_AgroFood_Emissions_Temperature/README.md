@@ -2,7 +2,7 @@
 
 ## Report
 View report here -  
-(https://rpubs.com/rahil1998/Part1_AgroFood_Emissions_Temperature_Analysis)
+(https://nbviewer.org/github/rahilprime/Machine-Learning/blob/main/Project_Part1_AgroFood_Emissions_Temperature/MLProject_part1.ipynb)
 
 ## Overview
 This project aims to perform data preparation and exploratory analysis on emissions from agri-food activities and their relationship with global temperature rise. The goal is to clean the dataset and analyze the impact of emissions from different sources on temperature escalation across countries.
