@@ -48,8 +48,8 @@ This project focuses on building and comparing binary classification models to p
 
 ## Files  
 -- `README.md`: This file.  
--- `Binary_Classification_AgroFood.ipynb`: Jupyter Notebook for binary classification and model evaluation.  
--- `agrofood_emissions.csv`: The dataset used for analysis.  
+-- `MLProject_part2.ipynb`: Jupyter Notebook for binary classification and model evaluation.  
+-- `MLProject_part2.csv`: The dataset used for analysis.  
 
 ## License  
 This project is licensed under the MIT License.
