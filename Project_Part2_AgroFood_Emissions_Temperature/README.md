@@ -2,7 +2,7 @@
 
 ## Report  
 View report here -  
-(https://nbviewer.org/github/rahilprime/Machine-Learning/blob/main/Project_Part2_AgroFood_Emissions_Temperature/MLProject_part2.ipynb)
+(https://nbviewer.org/github/Rahil-An-Analyst/Machine-Learning/blob/main/Project_Part2_AgroFood_Emissions_Temperature/MLProject_part2.ipynb)
 
 ## Overview  
 This project focuses on building and comparing binary classification models to predict whether the average temperature rise for a country in a given year is above or below the mean temperature rise. The analysis is based on the Agri-food CO2 emission dataset from Kaggle (Alessandro L B, n.d.), which includes various environmental factors and emission-related attributes. The goal is to classify the temperature rise using KNN, Naive Bayes, Decision Tree, and Neural Networks, with hyperparameter tuning for optimized performance.
